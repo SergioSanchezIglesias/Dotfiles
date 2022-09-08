@@ -20,8 +20,10 @@ else
     source $HOME/.config/nvim/plug-config/prettier.vim
     " luafile $HOME/.config/nvim/plug-config/nvim-treeseter.lua
     " Themes
-    source $HOME/.config/nvim/general/colors.vim
-    source $HOME/.config/nvim/themes/airline.vim
+    "source $HOME/.config/nvim/general/colors.vim"
+    "source $HOME/.config/nvim/themes/airline.vim"
     source $HOME/.config/nvim/themes/onedark.vim
-    source $HOME/.config/nvim/themes/monokai.vim
+    "source $HOME/.config/nvim/themes/monokai.vim"
+    "source $HOME/.config/nvim/themes/solarized.vim"
+    "source $HOME/.config/nvim/themes/hatsunemiku.vim"
 endif
